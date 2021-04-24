@@ -1,8 +1,5 @@
 # syntax=docker/dockerfile:1.2
 
-# build image: docker build --tag build-tmux .
-# build tmux: docker run --rm -it -v "$(pwd)":/build build-tmux /build/build.sh
-
 FROM debian:buster
 
 ENV TMUX_BRANCH 3.2

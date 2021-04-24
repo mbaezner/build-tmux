@@ -1,6 +1,6 @@
 # Build Tmux
 
-Simple Dockerfile and shell script for building Tmux from source.
+Simple Dockerfile and shell script for building Tmux from source for Debian Buster.
 
 ## Usage
 

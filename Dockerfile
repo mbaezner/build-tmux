@@ -1,5 +1,3 @@
-# syntax=docker/dockerfile:1.2
-
 FROM debian:buster
 
 ENV BUILD_PACKAGES \

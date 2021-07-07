@@ -16,4 +16,3 @@ echo " ----> Configure build"
 
 echo " ----> Build tmux ${TMUX_BRANCH}"
 make
-mv /build/source/tmux /build/

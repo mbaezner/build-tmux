@@ -2,9 +2,6 @@
 
 FROM debian:buster
 
-ENV TMUX_BRANCH 3.2
-ENV TMUX_REPOSITORY https://github.com/tmux/tmux.git
-
 ENV BUILD_PACKAGES \
  git \
  build-essential \
